@@ -13,6 +13,47 @@
   }
 }
 
+.font-boldoa {
+  font-family: "Boldoa";
+}
+
+.font-boldoa2 {
+  font-family: "Boldoa";
+  color: black;
+  -webkit-text-stroke: 1px white;
+  /* Optional for wider support */
+  text-shadow: 
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
+}
+
+.font-boldoa3 {
+  font-family: "Boldoa";
+  color: black;
+  -webkit-text-stroke: 1px white;
+
+  /* Stronger/thicker text shadow */
+  text-shadow: 
+    -2px -2px 0 white,
+    2px -2px 0 white,
+    -2px 2px 0 white,
+    2px 2px 0 white,
+    -1px 0 0 white,
+    1px 0 0 white,
+    0 -1px 0 white,
+    0 1px 0 white;
+}
+
+
+@font-face {
+  font-family: 'Boldoa';
+  src: url('./assets/fonts/Boldoa-Mat.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
