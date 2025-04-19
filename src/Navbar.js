@@ -21,7 +21,7 @@ const Navbar = () => {
       {/* Desktop menu */}
       <ul className="hidden md:flex items-center gap-8">
         <a
-          href="https://x.com/Clitcoinn"
+          href="https://x.com/DoomerCoinnn"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2"
@@ -32,7 +32,7 @@ const Navbar = () => {
           <span className="text-4xl font-boldoa2">X: LINK</span>
         </a>
         <a
-          href="https://t.me/clitoris_coin"
+          href="https://t.me/Doomer_Coinn"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2"

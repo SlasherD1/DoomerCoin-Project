@@ -25,10 +25,11 @@ const App = () => {
           alt="Background"
           className="absolute inset-0 w-full h-full object-cover -z-10"
         />
-        {/* <p className="text-md md:text-3xl bg-yellow-500 text-center rounded-xl font-bold text-black mt-[800px] xl:py-2 xl:px-4">
-          CA : BA4wE7o1RRboQDqNDUpy77QgJjrk9DvAEb7kYpw5pvpn
-        </p> */}
+        <h1 className="text-md md:text-2xl bg-yellow-500 text-center rounded-xl font-bold text-black mt-[430px] xl:py-2 xl:px-4">
+          CA : CjAreLw1YXcCv5g4iRT7VMouuMfa8Rvtt7mynsdr8qDJ
+        </h1>
       </section>
+      <br></br>
 
       <div className="relative z-10 -mt-[80px] mb-[-40px] w-full text-center">
         <h2 className="font-boldoa3 text-white text-5xl md:text-6xl xl:text-8xl font-extrabold drop-shadow-xl inline-block px-6 py-3 rounded-xl">
